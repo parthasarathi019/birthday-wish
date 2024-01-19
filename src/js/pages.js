@@ -15,8 +15,10 @@ export const late = {
     <h1>The party was over</h1>
     <br /><br /><br />
     <p>
-        Yes, my gift for you is kinda simple, cheap, and weird ? &#128534<br>
-        B-but. It's only for you. &#128150
+         I Love You Infinity <br>
+        It's only for you. &#128150 <br> 
+        Love &#128150 Love <br>
+        Aishu &#128150 Partho
     </p>
 `,
 };
